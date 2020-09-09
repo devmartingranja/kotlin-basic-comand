@@ -1,9 +1,9 @@
 # kotlin-basic-comand
-Sintaxis básica del lenguaje de programacion Kotlin 
+Sintaxis básica del lenguaje de programación Kotlin 
 
-## Tematica
+## Temática
 
-- Varables y Constantes
+- Variables y Constantes
 - Variables y Tipos de Datos
 - Condicional IF
 - Sentencia When
@@ -11,7 +11,7 @@ Sintaxis básica del lenguaje de programacion Kotlin
 - Maps (Diccionarios)
 - Blucles (Ciclos)
 - Null Safety
-- Funciones (Metodos)
-- Clases (Basico)
+- Funciones (Métodos)
+- Clases (Básico)
 
 
